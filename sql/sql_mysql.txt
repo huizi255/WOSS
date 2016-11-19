@@ -1,0 +1,249 @@
+
+create table t_detail_1(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_2(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_3(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_4(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_5(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_6(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_7(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_8(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_9(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_10(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_11(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_12(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_13(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_14(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_15(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_16(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_17(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_18(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_19(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_20(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_21(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_22(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_23(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_24(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_25(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_26(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_27(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_28(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_29(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_30(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);
+create table t_detail_31(
+	aaa_login_name varchar(30),
+	login_ip	VARCHAR(32),
+        login_date	DATE,
+        logout_date	DATE,
+        nas_ip	varchar(32),
+        time_duration	int
+);

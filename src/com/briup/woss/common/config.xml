@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<woss>
+	<server class="com.briup.woss.server.ServerImpl">
+		<port>8001</port>
+	</server>
+	<dbstore class="com.briup.woss.server.DBStoreImpl">
+		<driver>oracle.jdbc.driver.OracleDriver</driver>
+		<url>jdbc:oracle:thin:@localhost:1521:XE</url>
+		<username>oracle</username>
+		<password>oracle</password>
+		<batch-size>100</batch-size>
+	</dbstore>
+	<client class="com.briup.woss.client.ClientImpl">
+		<port>8001</port>
+		<ip>127.0.0.1</ip>
+	</client>
+	<gather class="com.briup.woss.client.GatherImpl">
+		<nas-ip>127.0.0.1</nas-ip>
+		<src-file>src/com/briup/woss/bean/radwtmp_test</src-file>
+	</gather>
+	<logger class="com.briup.woss.common.LoggerImpl">
+		<log-properties>src/com/briup/woss/common/log4j.properties</log-properties>
+	</logger>
+	<backup class="com.briup.woss.common.BackUpImpl">
+		<back-temp>src</back-temp>
+	</backup>
+</woss>
